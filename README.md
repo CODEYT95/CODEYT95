@@ -38,8 +38,10 @@ List of Learnings
    <a href="https://www.notion.so/MySpace-f3b106a8dabd4ba38d3058b684fb17bb"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
    <a href="https://github.com/CODEYT95"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </details>
-</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODEYT95)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 <a href="https://github.com/CODEYT95"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you%20for%20reading%20my%20post.&fontSize=25&fontAlignY=70"/></a>
