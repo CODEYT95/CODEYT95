@@ -1,12 +1,14 @@
 <a href="https://github.com/CODEYT95"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Yuntae%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20Github!&descAlignY=55&descAlign=59.5" alt="Yuntae Github"></a>
 
-<a href="https://github.com/CODEYT95"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCODEYT95&count_bg=%23373737&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 
 
 
 
 
 <div align="center">
+<a href="https://github.com/CODEYT95"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCODEYT95&count_bg=%23373737&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+   
 <details>
 <summary>
 List of Learnings
@@ -28,6 +30,7 @@ List of Learnings
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </details>
+
 <details>
 <summary>
 페이지
