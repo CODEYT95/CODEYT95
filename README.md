@@ -1,8 +1,10 @@
 <a href="https://github.com/CODEYT95"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Yuntae%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20Github!&descAlignY=55&descAlign=59.5" alt="Yuntae Github"></a>
 
+<img src="https://img.shields.io/badge/codeyt95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+
 <div align="center">
    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&pause=1000&color=000000&width=435&lines=Email+%3A+codeyt95%40gmail.com)](https://git.io/typing-svg)
+
 <br>
    
 <a href="https://github.com/CODEYT95"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCODEYT95&count_bg=%23373737&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
