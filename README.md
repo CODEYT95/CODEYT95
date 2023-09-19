@@ -36,7 +36,7 @@ _______
    <a href="https://github.com/CODEYT95"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge?style=flat&logo=github&logoColor=white"></a>
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CODEYT95)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=CODEYT95&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODEYT95)](https://github.com/anuraghazra/github-readme-stats)
