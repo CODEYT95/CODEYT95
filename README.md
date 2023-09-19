@@ -1,6 +1,8 @@
 <a href="https://github.com/CODEYT95"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Yuntae%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Thank%20you%20for%20visiting%20my%20Github!&descAlignY=55&descAlign=59.5" alt="Yuntae Github"></a>
 
-<img src="https://img.shields.io/badge/codeyt95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="https://www.notion.so/MySpace-f3b106a8dabd4ba38d3058b684fb17bb"><img src="https://img.shields.io/badge/My_Notion-000000?style=for-the-badge?style=flat&logo=notion&logoColor=white"></a>
+<img src="https://img.shields.io/badge/codeyt95@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<a href="https://github.com/CODEYT95"><img src="https://img.shields.io/badge/My_Github-181717?style=for-the-badge?style=flat&logo=github&logoColor=white"></a>
 
 <div align="center">
    
@@ -29,14 +31,6 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge?style=flat&logo=jupyter&logoColor=white">
    <br>
-_______
-<details>
-<summary>
-페이지
-</summary>
-   <a href="https://www.notion.so/MySpace-f3b106a8dabd4ba38d3058b684fb17bb"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge?style=flat&logo=notion&logoColor=white"></a>
-   <a href="https://github.com/CODEYT95"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge?style=flat&logo=github&logoColor=white"></a>
-</details>
 
 ![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=CODEYT95&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 </div>
