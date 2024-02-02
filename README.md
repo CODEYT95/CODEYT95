@@ -1,40 +1,63 @@
-<a href="https://github.com/CODEYT95">![venom](https://capsule-render.vercel.app/api?type=venom&height=150&text=I%20am%20Yuntae.&fontSize=50&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4)</a>
-
-<a href="https://www.notion.so/MySpace-f3b106a8dabd4ba38d3058b684fb17bb"><img src="https://img.shields.io/badge/My_Notion-000000?style=for-the-badge?style=flat&logo=notion&logoColor=white"></a>
-<img src="https://img.shields.io/badge/codeyt95@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-<a href="https://github.com/CODEYT95"><img src="https://img.shields.io/badge/My_Github-181717?style=for-the-badge?style=flat&logo=github&logoColor=white"></a>
-
 <div align="center">
+<!-- Header banner -->
    
+![venom](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4)</a>
 
-<br>
-   
-<a href="https://github.com/CODEYT95"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCODEYT95&count_bg=%23373737&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<br>   
-:books:Skills
-   <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge?style=flat&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge?style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge?style=flat&logo=oracle&logoColor=white">
-<br>
-<br>
-🔥 Studying🔥
-<br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge?style=flat&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge?style=flat&logo=eclipseide&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge?style=flat&logo=css3&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge?style=flat&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge?style=flat&logo=jupyter&logoColor=white">
-   <br>
-
-![GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=CODEYT95&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<details>
+<summary>🙂About Me</summary>
+📞 Contact
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CODEYT95)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/CODEYT95"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you%20for%20reading%20my%20post.&fontSize=25&fontAlignY=70"/></a>
+   <div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- 백엔드 -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    </div>
+      <!-- 프론트 -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Ajax-007396?style=flat-square&logo=ajax&logoColor=white">
+        <img src="https://img.shields.io/badge/jQuery-007396?style=flat-square&logo=jquery&logoColor=white">
+    </div>
+    <!-- DB -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
+    </div>
+    <!-- 서버 -->
+    <p><strong>Server</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+    </div>
+      <!-- 개발 툴 -->
+    <p><strong>Development Tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white">
+        <img src="https://img.shields.io/badge/Intelli J-000000?style=flat-square&logo=IntelliJ idea&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
+    </div>
+    <!-- 기타 -->
+    <p><strong>Framework</strong></p>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white">
+    <div>
+        
+</div><br>
+</div>
+</summary>
+   
+</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
