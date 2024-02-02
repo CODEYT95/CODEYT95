@@ -1,15 +1,28 @@
 <div align="center">
    <!-- Header banner -->
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
+</div>
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://bit.ly/yuntae_notion">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+    </a>
+  <!-- 나중에 티스토리 다시하면 블로그 최신글 띄우기용
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+   -->
+</div><br>
+
+## 📞 Contact
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:codeyt95@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
    <details>
       <summary>🙂 About Me</summary>
-      📞 Contact
-      <div style="display:flex; flex-direction:row;">
-          <a href="mailto:codeyt95@gmail.com">
-              <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-          </a>
-      </div>
       <div style="display:flex; flex-direction:column; align-items:flex-start;">
          <!-- 백엔드 -->
          <p><strong>Backend</strong></p>
@@ -53,8 +66,9 @@
          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white">
       </div>
    </details>
+   <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyt95&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
    <img src="https://github-readme-stats.vercel.app/api?username=codeyt95&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeyt95&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</div>
+   </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%" />
