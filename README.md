@@ -1,6 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeyt95)](https://github.com/codeyt95/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeyt95&langs_count=8)](https://github.com/codeyt95/github-readme-stats)
-
 <div align="center">
    <!-- Header banner -->
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
