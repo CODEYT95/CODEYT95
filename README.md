@@ -6,7 +6,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Voltaire&size=40&duration=4000&pause=1000&color=1A38CFCD&center=true&random=%EA%B1%B0%EC%A7%93&width=800&height=80&lines=Hello%2C+I'm+Yuntae+Park++🙂;+Studying+web+development+!;If+you+want+to+know+more+about+me%2C+click+on+Notion!" alt="Typing SVG" /></a>
 
 </div>
-
+<div align="center">
+   
 ## 💻 My Info
 <div style="display:flex; flex-direction:row;">
     <a href="https://bit.ly/yuntae_notion">
@@ -65,7 +66,7 @@
          </div><br>
 </div>
 <br>
-
+</div>
    <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyt95&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
    <img src="https://github-readme-stats.vercel.app/api?username=codeyt95&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
