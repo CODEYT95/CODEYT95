@@ -3,7 +3,7 @@
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
 </div>
 
-## 💻 DEV's log 💻
+## 💻 More my Info
 <div style="display:flex; flex-direction:row;">
     <a href="https://bit.ly/yuntae_notion">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
@@ -21,16 +21,15 @@
     </a>
 </div><br>
 
-   <details>
-      <summary>🙂 About Me</summary>
-      <div style="display:flex; flex-direction:column; align-items:flex-start;">
-         <!-- 백엔드 -->
-         <p><strong>Backend</strong></p>
-         <div>
-            <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-            <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-         </div>
-         <!-- 프론트 -->
+## 🔨 I've used
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- 백엔드 -->
+      <p><strong>Backend</strong></p>
+      <div>
+         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+      </div>
+    <!-- 프론트 -->
          <p><strong>Frontend</strong></p>
          <div>
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -59,13 +58,9 @@
             <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
             <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
             <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
-         </div>
-         <!-- 기타 -->
-         <p><strong>Framework</strong></p>
-         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring boot&logoColor=white">
-      </div>
-   </details>
+         </div><br>
+</div>
+
    <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyt95&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
    <img src="https://github-readme-stats.vercel.app/api?username=codeyt95&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
