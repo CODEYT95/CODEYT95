@@ -1,8 +1,11 @@
 <div align="center">
    <!-- Header banner -->
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
-</div>
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Voltaire&size=22&pause=1000&color=2D9ECFCD&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=435&lines=Hello%2C+I'm+Yuntae+Park;+Studying+web+development" alt="Typing SVG" /></a>
+
+</div>
 ## 💻 My Info
 <div style="display:flex; flex-direction:row;">
     <a href="https://bit.ly/yuntae_notion">
