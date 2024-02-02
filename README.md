@@ -1,4 +1,4 @@
-<a href="https://github.com/CODEYT95">![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Yuntae.&fontSize=50&color=gradient&customColorList=0,2,2,5,30&stroke=b678c4)</a>
+<a href="https://github.com/CODEYT95">![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Yuntae.&fontSize=50&fontColor=auto&color=gradient&customColorList=0,2,2,5,30&stroke=b678c4)</a>
 
 <a href="https://www.notion.so/MySpace-f3b106a8dabd4ba38d3058b684fb17bb"><img src="https://img.shields.io/badge/My_Notion-000000?style=for-the-badge?style=flat&logo=notion&logoColor=white"></a>
 <img src="https://img.shields.io/badge/codeyt95@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
