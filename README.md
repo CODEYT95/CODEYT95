@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeyt95)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeyt95&langs_count=10&layout=compact)]()
 
 <div align="center">
    <!-- Header banner -->
