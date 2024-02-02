@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeyt95)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
    <!-- Header banner -->
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
