@@ -3,7 +3,7 @@
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Voltaire&size=40&duration=4000&pause=1000&color=2D9ECFCD&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&height=70&lines=Hello%2C+I'm+Yuntae+Park;+Studying+web+development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Voltaire&size=40&duration=4000&pause=1000&color=gradient&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&height=70&lines=Hello%2C+I'm+Yuntae+Park;+Studying+web+development" alt="Typing SVG" /></a>
 
 </div>
 
