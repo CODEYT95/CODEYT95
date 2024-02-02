@@ -3,7 +3,7 @@
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
 </div>
 
-## 💻 More my Info
+## 💻 My Info
 <div style="display:flex; flex-direction:row;">
     <a href="https://bit.ly/yuntae_notion">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
