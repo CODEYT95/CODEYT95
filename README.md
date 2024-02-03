@@ -1,5 +1,5 @@
 <div align="center">
-   <!-- Header banner -->
+   <!-- 헤더 -->
    <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
 
    <a href="https://git.io/typing-svg">
@@ -8,10 +8,12 @@
       />
    </a>
 
+   <!-- 소개글 -->
    <div style="display:flex; flex-direction:row;">
       <p>안녕하세요 : ) 신입 개발자 <span>$\bf{\large{\color{#00000}박윤태}}$</span> 입니다.</p>
       <p>저에 대한 자세한 <span>$\bf{\large{\color{#6580DD}정보}}$</span>를 알아보시려면</p>
       <p> 아래 Notion 아이콘을 통해 노션을 <span>$\bf{\large{\color{#6580DD}방문}}$</span>해주세요 !</p>
+      <!-- 소개글 아이콘 -->
       <a href="https://bit.ly/yuntae_notion">
          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
       </a>
@@ -30,6 +32,7 @@
       <!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/) -->
    </div>
 
+   <!-- 사용 가능 기술들 -->
    <div align="center">
       <h2>🔨 Can use it</h2>
       <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -73,6 +76,8 @@
       </div>
    </div>
 <hr>
+
+   <!-- status -->
    <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeyt95&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
       <img src="https://github-readme-stats.vercel.app/api?username=codeyt95&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
@@ -80,5 +85,7 @@
    </div>
    <br>
    <br>
+
+   <!-- 푸터 -->
    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%" />
 </div>
