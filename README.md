@@ -1,6 +1,6 @@
 <div align="center">
    <!-- 헤더 -->
-   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=0,2,15,2,24,30&stroke=b678c4" />
+   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=auto&customColorList=0,2,15,2,24,30&stroke=b678c4" />
 
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Voltaire&size=40&duration=3000&pause=1000&color=1A38CFCD&center=true&random=%EA%B1%B0%EC%A7%93&width=800&height=80&lines=Hello%2C+I'm+Yuntae+Park++!;+Studying+web+development+!;Thank+you+for+visit+my+Github."
@@ -45,8 +45,8 @@
          <!-- 프론트 -->
          <p><strong>Frontend</strong></p>
          <div>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
             <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
             <img src="https://img.shields.io/badge/Ajax-007396?style=flat&logo=ajax&logoColor=white">
