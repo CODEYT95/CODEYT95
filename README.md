@@ -1,6 +1,6 @@
 <div align="center">
    <!-- 헤더 -->
-   <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=3,6,9,15,12,24,27,30&stroke=b678c4" />
+   <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&customColorList=3,6,9,15,12,24,27,30&stroke=b678c4" />
 
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Voltaire&size=40&duration=3000&pause=1000&color=1A38CFCD&center=true&random=%EA%B1%B0%EC%A7%93&width=800&height=80&lines=Hello%2C+I'm+Yuntae+Park++!;+Studying+web+development+!;Thank+you+for+visit+my+Github."
