@@ -40,7 +40,9 @@
          <p><strong>Backend</strong></p>
          <div>
             <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-            <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
          </div>
          <!-- 프론트 -->
          <p><strong>Frontend</strong></p>
@@ -51,6 +53,7 @@
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
             <img src="https://img.shields.io/badge/Ajax-007396?style=flat&logo=ajax&logoColor=white">
             <img src="https://img.shields.io/badge/jQuery-007396?style=flat&logo=jquery&logoColor=white">
+            <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
          </div>
          <!-- DB -->
          <p><strong>Database</strong></p>
@@ -71,6 +74,7 @@
             <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
             <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white">
             <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white">
+            <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
          </div>
          <br>
       </div>
