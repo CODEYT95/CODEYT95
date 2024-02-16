@@ -13,6 +13,7 @@
       <p>안녕하세요 : ) 신입 개발자 <span>$\bf{\large{\color{#00000}박윤태}}$</span> 입니다.</p>
       <p>저에 대한 자세한 <span>$\bf{\large{\color{#6580DD}정보}}$</span>를 알아보시려면</p>
       <p> 아래 Notion 아이콘을 통해 노션을 <span>$\bf{\large{\color{#6580DD}방문}}$</span>해주세요 !</p>
+      
       <!-- 소개글 아이콘 -->
       <a href="https://bit.ly/yuntae_notion">
          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
