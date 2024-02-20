@@ -7,7 +7,6 @@
          alt="Typing SVG"
       />
    </a>
-<p>${\textsf{\color{green}Green}}$</p>
    <!-- 소개글 -->
    <div style="display:flex; flex-direction:row;">
       <p>안녕하세요 : ) 신입 개발자 <span>$\bf{\large{\color{#00000}박윤태}}$</span> 입니다.</p>
